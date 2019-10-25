@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mersedes</string>
+    <string-array name="golongandarah">
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+        <item>AB</item>
+    </string-array>
+</resources>
